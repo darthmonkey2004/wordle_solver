@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 from re import search, findall
 import json
 import requests
