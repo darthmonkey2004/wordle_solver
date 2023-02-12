@@ -54,3 +54,12 @@ ret = w.update(); print("Update return:", ret)
 if ret:
 	quit(w.words[0])
 time.sleep(2)
+
+shuffle(w.words)
+guess = (w.words[0])
+w.guess(guess)
+time.sleep(2)
+ret = w.update(); print("Update return:", ret)
+if ret:
+	quit(w.words[0])
+time.sleep(2)
