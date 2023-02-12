@@ -1,0 +1,10 @@
+db_get_data.py
+setup.py
+solver.py
+wordle.py
+words.db
+wordtester.py
+wordle_helper.egg-info/PKG-INFO
+wordle_helper.egg-info/SOURCES.txt
+wordle_helper.egg-info/dependency_links.txt
+wordle_helper.egg-info/top_level.txt

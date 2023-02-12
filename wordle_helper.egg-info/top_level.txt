@@ -1,0 +1,3 @@
+db_get_data
+wordle
+wordtester
