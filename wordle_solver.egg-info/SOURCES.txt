@@ -1,0 +1,15 @@
+LICENSE
+README.md
+db_get_data.py
+install.sh
+setup.py
+wordle-solver
+wordle-solver.desktop
+wordle-solver.jpg
+wordle.py
+words.db
+wordtester.py
+wordle_solver.egg-info/PKG-INFO
+wordle_solver.egg-info/SOURCES.txt
+wordle_solver.egg-info/dependency_links.txt
+wordle_solver.egg-info/top_level.txt

@@ -13,7 +13,8 @@ class database():
 		if dbfile is not None:
 			self.dbfile = os.path.join(self.data_dir, os.path.basename(dbfile))
 		else:
-			self.dbfile = '/home/monkey/wordle/words.db'
+			self.dbfile = os.path.join(os.path.expanduser("~"), '.local', 'words.db')
+	#		self.dbfile = '/home/monkey/wordle/words.db'
 		if savefile is not None:
 			self.savefile = os.path.join(self.data_dir, os.path.basename(savefile))
 		else:

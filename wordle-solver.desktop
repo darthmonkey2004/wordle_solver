@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Name=Wordle Solver
+Comment=NY Times 'Wordle' puzzle solver.
+Exec=wordle-solver
+Path=/home/monkey/.local
+Icon=/home/monkey/.local/wordle-solver.jpg
+Terminal=true
+Type=Application
+Categories=Utility
